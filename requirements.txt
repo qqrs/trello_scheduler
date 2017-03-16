@@ -1,2 +1,3 @@
 requests==2.13.0
 trello==0.9.1
+functools32==3.2.3.post2
